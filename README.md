@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# Lalalab Technical Test
+# Test technique Algorithmie, Node.js
+
+# Technical Test
 
 ## Informations
 
@@ -44,7 +45,3 @@ Once the program has finished, it should print out whatever is left of the world
 
 Feel free to make assumptions (for example, that the city names will never contain numeric characters), but please add comments or assertions describing the assumptions you are making.
 
-=======
-# balalal
-Test technique Algorithmie, Node.js
->>>>>>> d23b8cec2508b096dd95b33b81c483d0d8ba785e
