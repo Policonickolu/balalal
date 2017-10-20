@@ -2,12 +2,6 @@
 
 # Technical Test
 
-## Informations
-
-- master branch will be collected 1 hour after the beginning of the test, so make sure everything you did is pushed to master
-- once master as been collected, you can continue to code and send an email to `adrien@lalalab.com` once you finished (this is as important as doing as much as you can during the first hour)
-- if you have any question during the test, you can call Adrien (06 51 45 78 04)
-
 ## Subject
 
 You are given a map containing the names of cities in the non-existent world of X. The map is in a file, with one city per line. The city name is first, followed by 1-4 directions (north, south, east, or west). Each one represents a road to another city that lies in that direction.
